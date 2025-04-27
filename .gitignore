@@ -1,0 +1,45 @@
+# Node dependencies
+node_modules/
+
+# dotenv environment file
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Build output
+dist/
+build/
+
+# Coverage reports
+coverage/
+
+# Uploaded / generated images (if you don’t want to check them in)
+public/*.png
+public/*.jpg
+public/*.jpeg
+public/*.webp
+
+# Optional: lockfiles if you prefer one package manager
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml

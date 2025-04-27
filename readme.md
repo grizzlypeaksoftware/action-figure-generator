@@ -33,7 +33,7 @@ Upon submission, the server (in **app.js**) uses the **Images Edit** endpoint (w
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/grizzlypeaksoftware/image-gen-demo.git
+   git clone https://github.com/grizzlypeaksoftware/action-figure-generator
    cd image-gen-demo
    ```
 
